@@ -1,0 +1,142 @@
+[
+    {
+        "player_name": "Cristiano Ronaldo dos Santos Aveiro",
+        "player_nickname": "Cristiano Ronaldo",
+        "match_played": 4,
+        "total_shots": 5.5,
+        "team_name": "Portugal"
+    },
+    {
+        "player_name": "Neymar da Silva Santos Junior",
+        "player_nickname": "Neymar",
+        "match_played": 5,
+        "total_shots": 5.4,
+        "team_name": "Brazil"
+    },
+    {
+        "player_name": "Toni Kroos",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_shots": 5.33,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Aleksandar Mitrović",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_shots": 5.33,
+        "team_name": "Serbia"
+    },
+    {
+        "player_name": "Heung-Min Son",
+        "player_nickname": "Son Heung-Min",
+        "match_played": 3,
+        "total_shots": 4.67,
+        "team_name": "South Korea"
+    },
+    {
+        "player_name": "Philippe Coutinho Correia",
+        "player_nickname": "Philippe Coutinho",
+        "match_played": 5,
+        "total_shots": 4.6,
+        "team_name": "Brazil"
+    },
+    {
+        "player_name": "Lionel Andrés Messi Cuccittini",
+        "player_nickname": "Lionel Messi",
+        "match_played": 4,
+        "total_shots": 4.5,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Wahbi Khazri",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_shots": 4.0,
+        "team_name": "Tunisia"
+    },
+    {
+        "player_name": "Edinson Roberto Cavani Gómez",
+        "player_nickname": "Edinson Cavani",
+        "match_played": 4,
+        "total_shots": 4.0,
+        "team_name": "Uruguay"
+    },
+    {
+        "player_name": "Ivan Perišić",
+        "player_nickname": null,
+        "match_played": 7,
+        "total_shots": 3.43,
+        "team_name": "Croatia"
+    },
+    {
+        "player_name": "Gylfi Þór Sigurðsson",
+        "player_nickname": "Gylfi Sigurðsson",
+        "match_played": 3,
+        "total_shots": 3.33,
+        "team_name": "Iceland"
+    },
+    {
+        "player_name": "Mathew Leckie",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_shots": 3.0,
+        "team_name": "Australia"
+    },
+    {
+        "player_name": "Adnan Januzaj",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_shots": 3.0,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Eden Hazard",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_shots": 3.0,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Christian Dannemann Eriksen",
+        "player_nickname": "Christian Eriksen",
+        "match_played": 4,
+        "total_shots": 3.0,
+        "team_name": "Denmark"
+    },
+    {
+        "player_name": "Mohamed Salah",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_shots": 3.0,
+        "team_name": "Egypt"
+    },
+    {
+        "player_name": "Antoine Griezmann",
+        "player_nickname": null,
+        "match_played": 7,
+        "total_shots": 3.0,
+        "team_name": "France"
+    },
+    {
+        "player_name": "Julian Draxler",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_shots": 3.0,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Mats Hummels",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_shots": 3.0,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Hirving Rodrigo Lozano Bahena",
+        "player_nickname": "Hirving Lozano",
+        "match_played": 4,
+        "total_shots": 3.0,
+        "team_name": "Mexico"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "player_name": "Lamine Gassama",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_interc_won_pl": 4.0,
+        "team_name": "Senegal"
+    },
+    {
+        "player_name": "Kenneth Josiah Omeruo",
+        "player_nickname": "Kenneth Omeruo",
+        "match_played": 2,
+        "total_interc_won_pl": 3.0,
+        "team_name": "Nigeria"
+    },
+    {
+        "player_name": "Abdullah Ibrahim Otayf",
+        "player_nickname": "Abdullah Otayf",
+        "match_played": 3,
+        "total_interc_won_pl": 2.67,
+        "team_name": "Saudi Arabia"
+    },
+    {
+        "player_name": "N''Golo Kanté",
+        "player_nickname": "N'Golo Kanté",
+        "match_played": 7,
+        "total_interc_won_pl": 2.43,
+        "team_name": "France"
+    },
+    {
+        "player_name": "Oscar Fabián Murillo Murillo",
+        "player_nickname": "Óscar Murillo",
+        "match_played": 1,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Colombia"
+    },
+    {
+        "player_name": "Kendall Jamaal Waston Manley",
+        "player_nickname": "Kendall Waston",
+        "match_played": 1,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Costa Rica"
+    },
+    {
+        "player_name": "Sam Morsy",
+        "player_nickname": "Samy Morsy",
+        "match_played": 1,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Egypt"
+    },
+    {
+        "player_name": "Emil Hallfreðsson",
+        "player_nickname": "Emil Hallfredsson",
+        "match_played": 2,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Iceland"
+    },
+    {
+        "player_name": "Johann Berg Guðmunds­son",
+        "player_nickname": "Johann Gudmundsson",
+        "match_played": 2,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Iceland"
+    },
+    {
+        "player_name": "Masoud Shojaei Soleimani",
+        "player_nickname": "Masoud Shojaei",
+        "match_played": 1,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Iran"
+    },
+    {
+        "player_name": "Mehdi Taremi",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Iran"
+    },
+    {
+        "player_name": "Leon Aderemi Balogun",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Nigeria"
+    },
+    {
+        "player_name": "Ismael Díaz De León",
+        "player_nickname": "Ismael Díaz",
+        "match_played": 1,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Panama"
+    },
+    {
+        "player_name": "Maciej Rybus",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Poland"
+    },
+    {
+        "player_name": "Roman Zobnin",
+        "player_nickname": null,
+        "match_played": 5,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Russia"
+    },
+    {
+        "player_name": "Salem Mohammed Al Dawsari",
+        "player_nickname": "Salem Al Dawsari",
+        "match_played": 3,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Saudi Arabia"
+    },
+    {
+        "player_name": "Ghilane Chalali",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_interc_won_pl": 2.0,
+        "team_name": "Tunisia"
+    },
+    {
+        "player_name": "Faustino Marcos Alberto Rojo",
+        "player_nickname": "Marcos Rojo",
+        "match_played": 3,
+        "total_interc_won_pl": 1.67,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Mohamed Abdul Shafy Sayed Abouezeid",
+        "player_nickname": "Mohamed Abdul Shafy",
+        "match_played": 3,
+        "total_interc_won_pl": 1.67,
+        "team_name": "Egypt"
+    },
+    {
+        "player_name": "Aníbal Cesis Godoy",
+        "player_nickname": "Aníbal Godoy",
+        "match_played": 3,
+        "total_interc_won_pl": 1.67,
+        "team_name": "Panama"
+    }
+]

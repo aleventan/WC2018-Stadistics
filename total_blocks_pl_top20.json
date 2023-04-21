@@ -1,0 +1,142 @@
+[
+    {
+        "player_name": "Jonas Knudsen",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_blocks_pl": 5.0,
+        "team_name": "Denmark"
+    },
+    {
+        "player_name": "Eduardo Antonio Salvio",
+        "player_nickname": "Eduardo Salvio",
+        "match_played": 2,
+        "total_blocks_pl": 4.5,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Jesús Daniel Gallardo Vasconcelos",
+        "player_nickname": "Jesús Gallardo",
+        "match_played": 4,
+        "total_blocks_pl": 4.25,
+        "team_name": "Mexico"
+    },
+    {
+        "player_name": "Mathew Leckie",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_blocks_pl": 4.0,
+        "team_name": "Australia"
+    },
+    {
+        "player_name": "Marcelo Vieira da Silva Júnior",
+        "player_nickname": "Marcelo",
+        "match_played": 4,
+        "total_blocks_pl": 4.0,
+        "team_name": "Brazil"
+    },
+    {
+        "player_name": "Giancarlo González Castro",
+        "player_nickname": "Giancarlo González",
+        "match_played": 3,
+        "total_blocks_pl": 4.0,
+        "team_name": "Costa Rica"
+    },
+    {
+        "player_name": "Ahmed Fathy Abdel Meneim Ibrahim",
+        "player_nickname": "Ahmed Fathy",
+        "match_played": 3,
+        "total_blocks_pl": 4.0,
+        "team_name": "Egypt"
+    },
+    {
+        "player_name": "Gary Cahill",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_blocks_pl": 4.0,
+        "team_name": "England"
+    },
+    {
+        "player_name": "Young-Sun Yun",
+        "player_nickname": "Yun Young-Sun",
+        "match_played": 1,
+        "total_blocks_pl": 4.0,
+        "team_name": "South Korea"
+    },
+    {
+        "player_name": "Mikael Lustig",
+        "player_nickname": null,
+        "match_played": 4,
+        "total_blocks_pl": 4.0,
+        "team_name": "Sweden"
+    },
+    {
+        "player_name": "Yussuf Yurary Poulsen",
+        "player_nickname": "Yussuf Poulsen",
+        "match_played": 3,
+        "total_blocks_pl": 3.67,
+        "team_name": "Denmark"
+    },
+    {
+        "player_name": "Stephan Lichtsteiner",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_blocks_pl": 3.67,
+        "team_name": "Switzerland"
+    },
+    {
+        "player_name": "Viktor Claesson",
+        "player_nickname": null,
+        "match_played": 5,
+        "total_blocks_pl": 3.6,
+        "team_name": "Sweden"
+    },
+    {
+        "player_name": "Filipe Luís Kasmirski",
+        "player_nickname": "Filipe Luis",
+        "match_played": 2,
+        "total_blocks_pl": 3.5,
+        "team_name": "Brazil"
+    },
+    {
+        "player_name": "Sverrir Ingi Ingason",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_blocks_pl": 3.5,
+        "team_name": "Iceland"
+    },
+    {
+        "player_name": "Carlos Joel Salcedo Hernández",
+        "player_nickname": "Carlos Salcedo",
+        "match_played": 4,
+        "total_blocks_pl": 3.5,
+        "team_name": "Mexico"
+    },
+    {
+        "player_name": "Nabil Dirar",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_blocks_pl": 3.5,
+        "team_name": "Morocco"
+    },
+    {
+        "player_name": "Romain Saïss",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_blocks_pl": 3.5,
+        "team_name": "Morocco"
+    },
+    {
+        "player_name": "Bamidele Alli",
+        "player_nickname": "Dele Alli",
+        "match_played": 5,
+        "total_blocks_pl": 3.4,
+        "team_name": "England"
+    },
+    {
+        "player_name": "Roman Zobnin",
+        "player_nickname": null,
+        "match_played": 5,
+        "total_blocks_pl": 3.4,
+        "team_name": "Russia"
+    }
+]

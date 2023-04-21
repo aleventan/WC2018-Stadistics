@@ -1,0 +1,142 @@
+[
+    {
+        "player_name": "Éver Maximiliano David Banega",
+        "player_nickname": "Éver Banega",
+        "match_played": 3,
+        "total_assists_pl": 2,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Eden Hazard",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_assists_pl": 2,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Kevin De Bruyne",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_assists_pl": 2,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Thomas Meunier",
+        "player_nickname": null,
+        "match_played": 5,
+        "total_assists_pl": 2,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Youri Tielemans",
+        "player_nickname": null,
+        "match_played": 4,
+        "total_assists_pl": 2,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Philippe Coutinho Correia",
+        "player_nickname": "Philippe Coutinho",
+        "match_played": 5,
+        "total_assists_pl": 2,
+        "team_name": "Brazil"
+    },
+    {
+        "player_name": "James David Rodríguez Rubio",
+        "player_nickname": "James Rodríguez",
+        "match_played": 3,
+        "total_assists_pl": 2,
+        "team_name": "Colombia"
+    },
+    {
+        "player_name": "Juan Fernando Quintero Paniagua",
+        "player_nickname": "Juan Fernando Quintero",
+        "match_played": 4,
+        "total_assists_pl": 2,
+        "team_name": "Colombia"
+    },
+    {
+        "player_name": "Antoine Griezmann",
+        "player_nickname": null,
+        "match_played": 7,
+        "total_assists_pl": 2,
+        "team_name": "France"
+    },
+    {
+        "player_name": "Lucas Hernández Pi",
+        "player_nickname": "Lucas Hernandez",
+        "match_played": 7,
+        "total_assists_pl": 2,
+        "team_name": "France"
+    },
+    {
+        "player_name": "Aleksandr Golovin",
+        "player_nickname": null,
+        "match_played": 4,
+        "total_assists_pl": 2,
+        "team_name": "Russia"
+    },
+    {
+        "player_name": "Artem Dzyuba",
+        "player_nickname": null,
+        "match_played": 5,
+        "total_assists_pl": 2,
+        "team_name": "Russia"
+    },
+    {
+        "player_name": "Wahbi Khazri",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_assists_pl": 2,
+        "team_name": "Tunisia"
+    },
+    {
+        "player_name": "Carlos Andrés Sánchez Arcosa",
+        "player_nickname": "Carlos Sánchez",
+        "match_played": 3,
+        "total_assists_pl": 2,
+        "team_name": "Uruguay"
+    },
+    {
+        "player_name": "Gabriel Iván Mercado",
+        "player_nickname": "Gabriel Mercado",
+        "match_played": 3,
+        "total_assists_pl": 1,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Lionel Andrés Messi Cuccittini",
+        "player_nickname": "Lionel Messi",
+        "match_played": 4,
+        "total_assists_pl": 1,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Dries Mertens",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_assists_pl": 1,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Nacer Chadli",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_assists_pl": 1,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Toby Alderweireld",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_assists_pl": 1,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Douglas Costa de Souza",
+        "player_nickname": "Douglas Costa",
+        "match_played": 2,
+        "total_assists_pl": 1,
+        "team_name": "Brazil"
+    }
+]

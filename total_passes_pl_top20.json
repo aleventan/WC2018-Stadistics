@@ -1,0 +1,142 @@
+[
+    {
+        "player_name": "Sergio Ramos García",
+        "player_nickname": "Sergio Ramos",
+        "match_played": 4,
+        "total_passes_pl": 124.0,
+        "team_name": "Spain"
+    },
+    {
+        "player_name": "Francisco Román Alarcón Suárez",
+        "player_nickname": "Isco",
+        "match_played": 4,
+        "total_passes_pl": 118.75,
+        "team_name": "Spain"
+    },
+    {
+        "player_name": "Toni Kroos",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_passes_pl": 107.67,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Jordi Alba Ramos",
+        "player_nickname": "Jordi Alba",
+        "match_played": 4,
+        "total_passes_pl": 103.5,
+        "team_name": "Spain"
+    },
+    {
+        "player_name": "Djibril Sidibé",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_passes_pl": 99.0,
+        "team_name": "France"
+    },
+    {
+        "player_name": "Jérôme Boateng",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_passes_pl": 92.0,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Jorge Resurrección Merodio",
+        "player_nickname": "Koke",
+        "match_played": 3,
+        "total_passes_pl": 90.0,
+        "team_name": "Spain"
+    },
+    {
+        "player_name": "Salman Mohammed Al Faraj",
+        "player_nickname": "Salman Al Faraj",
+        "match_played": 3,
+        "total_passes_pl": 88.67,
+        "team_name": "Saudi Arabia"
+    },
+    {
+        "player_name": "Gerard Piqué Bernabéu",
+        "player_nickname": "Gerard Piqué",
+        "match_played": 4,
+        "total_passes_pl": 88.5,
+        "team_name": "Spain"
+    },
+    {
+        "player_name": "Joshua Kimmich",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_passes_pl": 88.33,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Javier Alejandro Mascherano",
+        "player_nickname": "Javier Mascherano",
+        "match_played": 4,
+        "total_passes_pl": 87.0,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Tomoaki Makino",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_passes_pl": 87.0,
+        "team_name": "Japan"
+    },
+    {
+        "player_name": "Mesut Özil",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_passes_pl": 86.5,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Granit Xhaka",
+        "player_nickname": null,
+        "match_played": 4,
+        "total_passes_pl": 86.5,
+        "team_name": "Switzerland"
+    },
+    {
+        "player_name": "Antonio Rüdiger",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_passes_pl": 86.0,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Niklas Süle",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_passes_pl": 86.0,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Abdullah Ibrahim Otayf",
+        "player_nickname": "Abdullah Otayf",
+        "match_played": 3,
+        "total_passes_pl": 85.67,
+        "team_name": "Saudi Arabia"
+    },
+    {
+        "player_name": "Mark Milligan",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_passes_pl": 83.0,
+        "team_name": "Australia"
+    },
+    {
+        "player_name": "Rami Bedoui",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_passes_pl": 83.0,
+        "team_name": "Tunisia"
+    },
+    {
+        "player_name": "Thiago Rangel Cionek",
+        "player_nickname": "Thiago Cionek",
+        "match_played": 1,
+        "total_passes_pl": 81.0,
+        "team_name": "Poland"
+    }
+]

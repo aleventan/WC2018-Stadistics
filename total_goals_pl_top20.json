@@ -1,0 +1,142 @@
+[
+    {
+        "player_name": "Harry Kane",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_goals_pl": 6,
+        "team_name": "England"
+    },
+    {
+        "player_name": "Romelu Lukaku Menama",
+        "player_nickname": "Romelu Lukaku",
+        "match_played": 6,
+        "total_goals_pl": 4,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Antoine Griezmann",
+        "player_nickname": null,
+        "match_played": 7,
+        "total_goals_pl": 4,
+        "team_name": "France"
+    },
+    {
+        "player_name": "Kylian Mbappé Lottin",
+        "player_nickname": "Kylian Mbappé",
+        "match_played": 7,
+        "total_goals_pl": 4,
+        "team_name": "France"
+    },
+    {
+        "player_name": "Cristiano Ronaldo dos Santos Aveiro",
+        "player_nickname": "Cristiano Ronaldo",
+        "match_played": 4,
+        "total_goals_pl": 4,
+        "team_name": "Portugal"
+    },
+    {
+        "player_name": "Denis Cheryshev",
+        "player_nickname": null,
+        "match_played": 5,
+        "total_goals_pl": 4,
+        "team_name": "Russia"
+    },
+    {
+        "player_name": "Eden Hazard",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_goals_pl": 3,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Yerry Fernando Mina González",
+        "player_nickname": "Yerry Mina",
+        "match_played": 3,
+        "total_goals_pl": 3,
+        "team_name": "Colombia"
+    },
+    {
+        "player_name": "Ivan Perišić",
+        "player_nickname": null,
+        "match_played": 7,
+        "total_goals_pl": 3,
+        "team_name": "Croatia"
+    },
+    {
+        "player_name": "Mario Mandžukić",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_goals_pl": 3,
+        "team_name": "Croatia"
+    },
+    {
+        "player_name": "Artem Dzyuba",
+        "player_nickname": null,
+        "match_played": 5,
+        "total_goals_pl": 3,
+        "team_name": "Russia"
+    },
+    {
+        "player_name": "Diego da Silva Costa",
+        "player_nickname": "Diego Costa",
+        "match_played": 4,
+        "total_goals_pl": 3,
+        "team_name": "Spain"
+    },
+    {
+        "player_name": "Edinson Roberto Cavani Gómez",
+        "player_nickname": "Edinson Cavani",
+        "match_played": 4,
+        "total_goals_pl": 3,
+        "team_name": "Uruguay"
+    },
+    {
+        "player_name": "Sergio Leonel Agüero del Castillo",
+        "player_nickname": "Sergio Agüero",
+        "match_played": 4,
+        "total_goals_pl": 2,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Mile Jedinak",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_goals_pl": 2,
+        "team_name": "Australia"
+    },
+    {
+        "player_name": "Neymar da Silva Santos Junior",
+        "player_nickname": "Neymar",
+        "match_played": 5,
+        "total_goals_pl": 2,
+        "team_name": "Brazil"
+    },
+    {
+        "player_name": "Philippe Coutinho Correia",
+        "player_nickname": "Philippe Coutinho",
+        "match_played": 5,
+        "total_goals_pl": 2,
+        "team_name": "Brazil"
+    },
+    {
+        "player_name": "Radamel Falcao García Zárate",
+        "player_nickname": "Falcao",
+        "match_played": 4,
+        "total_goals_pl": 2,
+        "team_name": "Colombia"
+    },
+    {
+        "player_name": "Luka Modrić",
+        "player_nickname": null,
+        "match_played": 7,
+        "total_goals_pl": 2,
+        "team_name": "Croatia"
+    },
+    {
+        "player_name": "Mohamed Salah",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_goals_pl": 2,
+        "team_name": "Egypt"
+    }
+]

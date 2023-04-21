@@ -1,0 +1,142 @@
+[
+    {
+        "player_name": "Trent Alexander-Arnold",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_cross_complete_pl": 3.0,
+        "team_name": "England"
+    },
+    {
+        "player_name": "Ricardo Iván Rodríguez Araya",
+        "player_nickname": "Ricardo Rodríguez",
+        "match_played": 4,
+        "total_cross_complete_pl": 2.75,
+        "team_name": "Switzerland"
+    },
+    {
+        "player_name": "Neymar da Silva Santos Junior",
+        "player_nickname": "Neymar",
+        "match_played": 5,
+        "total_cross_complete_pl": 2.6,
+        "team_name": "Brazil"
+    },
+    {
+        "player_name": "Joshua Kimmich",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_cross_complete_pl": 2.33,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Aaron Mooy",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_cross_complete_pl": 2.0,
+        "team_name": "Australia"
+    },
+    {
+        "player_name": "Kieran Trippier",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_cross_complete_pl": 2.0,
+        "team_name": "England"
+    },
+    {
+        "player_name": "Hakim Ziyech",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_cross_complete_pl": 2.0,
+        "team_name": "Morocco"
+    },
+    {
+        "player_name": "Papa Alioune N\"Diaye",
+        "player_nickname": "Badou Ndiaye",
+        "match_played": 1,
+        "total_cross_complete_pl": 2.0,
+        "team_name": "Senegal"
+    },
+    {
+        "player_name": "Dušan Tadić",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_cross_complete_pl": 2.0,
+        "team_name": "Serbia"
+    },
+    {
+        "player_name": "Francisco Román Alarcón Suárez",
+        "player_nickname": "Isco",
+        "match_played": 4,
+        "total_cross_complete_pl": 2.0,
+        "team_name": "Spain"
+    },
+    {
+        "player_name": "Oussama Haddadi",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_cross_complete_pl": 2.0,
+        "team_name": "Tunisia"
+    },
+    {
+        "player_name": "Gylfi Þór Sigurðsson",
+        "player_nickname": "Gylfi Sigurðsson",
+        "match_played": 3,
+        "total_cross_complete_pl": 1.67,
+        "team_name": "Iceland"
+    },
+    {
+        "player_name": "Kevin De Bruyne",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_cross_complete_pl": 1.5,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Łukasz Piszczek",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_cross_complete_pl": 1.5,
+        "team_name": "Poland"
+    },
+    {
+        "player_name": "João Mário Naval da Costa Eduardo",
+        "player_nickname": "João Mário",
+        "match_played": 4,
+        "total_cross_complete_pl": 1.5,
+        "team_name": "Portugal"
+    },
+    {
+        "player_name": "Raphaël Adelino José Guerreiro",
+        "player_nickname": "Raphaël Guerreiro",
+        "match_played": 4,
+        "total_cross_complete_pl": 1.5,
+        "team_name": "Portugal"
+    },
+    {
+        "player_name": "Branislav Ivanović",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_cross_complete_pl": 1.5,
+        "team_name": "Serbia"
+    },
+    {
+        "player_name": "Mikael Lustig",
+        "player_nickname": null,
+        "match_played": 4,
+        "total_cross_complete_pl": 1.5,
+        "team_name": "Sweden"
+    },
+    {
+        "player_name": "Ali Maâloul",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_cross_complete_pl": 1.5,
+        "team_name": "Tunisia"
+    },
+    {
+        "player_name": "Hamdi Nagguez",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_cross_complete_pl": 1.5,
+        "team_name": "Tunisia"
+    }
+]

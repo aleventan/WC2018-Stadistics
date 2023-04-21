@@ -1,0 +1,391 @@
+
+table {
+
+    font-size: 25px;
+    color: blue;
+    /*border-collapse: separate;
+    font-family: verdana;
+    border: red 5px solid;
+    */
+}
+
+.table_flags_index{
+    margin-left: 5%;
+    margin-top: 8%;
+}
+.flags{
+    max-width: 20%;
+    max-height: 20%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.flags_index{
+    max-width: 50%;
+    max-height: 40%;
+    margin: 0;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.p_flags_index{
+    margin: 0;
+    text-align: center;
+}
+.td_flags_index{
+    margin: 2px;
+    text-align: center;
+}
+
+.tr_flags_index{
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.circlegraph{
+    max-width: 90%;
+    max-height: 50%;
+}
+.baregraph{
+    max-width: 150%;
+    max-height: 95%;
+}
+
+.div_left{
+    max-width: 45%;
+}
+
+.div_center{
+    max-width: 30%;
+    text-align: center;
+}
+
+.div_right{
+    max-width: 25%;
+}
+
+div{
+    /*
+    margin-right: 10px;
+    margin-bottom: 10px;
+    */
+    float: left;
+    position: relative;
+    display: flex;
+}
+
+body{
+    color: green;
+    background-color: lightgrey;
+    font-family: verdana;
+}
+
+.leftside{
+    text-align: right;
+}
+
+.centerside{
+    text-align: center;
+    width: 250px;
+}
+
+.rightside{
+    text-align: left;
+}
+
+td{
+    width: 200px;
+}
+
+.result_left{
+    font-size: 25px;
+    text-align: right;
+    margin: 100px;
+}
+
+.date{
+    font-size: 20px;
+    text-align: center;
+}
+
+.combo1{
+    font-size: 20px;
+    /* font-family: verdana; */
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 15px;
+}
+
+.combo2{
+    font-size: 18px;
+    /* font-family: verdana; */
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 15px;
+}
+
+.p_combo1{
+    align: center;
+    margin-top: 0.55%;
+    /* top: 50%; */
+    position: absolute;
+}
+
+div_cont{
+    /* background-color: #333;
+    white-space: nowrap;
+    margin: 4px, 4px;
+    padding: 4px;
+    width: 300px;
+    overflow-x: auto;
+    overflow-y: hidden; */
+    padding: 0px 30px;
+    position: relative;
+}
+
+.left_buton {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.right_buton {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* NavBar */
+
+
+/* Add a black background color to the top navigation */
+.blackline{
+  background-color: #333;
+  width: 100%;
+  height: 48px;
+}
+
+.topnav {
+  background-color: #333;
+  /* width: 100%;
+  margin-top: 10px; */
+  top: 50%;
+  overflow: hidden;
+  left: 50%;
+  transform: translate(-70%, -50%);
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.row_table_team{
+    height: 50px;
+}
+
+.column_table_team{
+    width: 350px;
+}
+
+.div_team_complete{
+    width:100%;
+}
+
+.table_team_stats{
+    width: 40%;
+}
+
+.div_graph_team{
+    width: 60%;
+}
+
+.combo_stats_team{
+    height: 30px;
+    width: 15%;
+
+}
+
+.stats{
+    margin-top: 70px;
+    position: absolute;
+    height:80%;
+    width:100%;
+}
+
+.iframe_player{
+    position: absolute;
+}
+
+.header_player_stats{
+    position: absolute;
+    /* background-color: yellow;
+    margin-left: 270px; */
+    height:350px;
+    width:1900px;
+    margin-top:60px;
+}
+
+.left_graph_player_stats{
+    position: absolute;
+    font-size: 25px;
+    /* background-color: blue;
+    margin-left: -100px; */
+    width: 950px;
+    height: 520px;
+    margin-top:350px;
+    color: blue;
+}
+
+.right_graph_player_stats{
+    position: absolute;
+    /* background-color: red; */
+    margin-top: 350px;
+    margin-left: 950px;
+    width: 950px;
+    height: 520px;
+}
+
+.image_player{
+    position: absolute;
+    margin-left: 45%;
+    width: 150px;
+    height: 200px;
+}
+
+.name_player_stats{
+    /* margin-left: 1000px;
+    text-align: right;
+    margin-left: 45%; */
+    margin-top: 5px;
+    position: relative;
+}
+
+.data_player{
+    font-size: 25px;
+    color: blue;
+    /* display: flex;
+    font-family: verdana;
+    justify-content: right;
+    float: right;
+    margin-left: 60%;
+    background-color: white;
+    text-align: right; */
+    width: 30%;
+}
+
+.position_player{
+    /* text-align: right;
+    margin-left: 45%; */
+    margin-top: 15%;
+    position: absolute;
+}
+
+.min_played{
+    margin-top: 40%;
+    position: absolute;
+}
+
+.gk_left{
+    margin-left: 120px;
+}
+
+.clean_sheets_gk{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: -14%;
+}
+
+.total_goals_conceded_gk{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: -14%;
+}
+
+.total_shots_saved_gk{
+    position: absolute;
+    margin-top: 30%;
+    margin-left: -14%;
+}
+
+.graph_gk_alone{
+    /* position: absolute; */
+    margin-left: 230px;
+    color: blue;
+}
+
+.combo3{
+    font-size: 18px;
+    /* font-family: verdana;
+    margin-right: 15px;
+    text-align: center;
+    width: 15%;
+    margin-left: 50px; */
+    height: 30px;
+}
+
+.combo4{
+    font-size: 18px;
+    height: 30px;
+    position: fixed;
+    top: 460px;
+    left: 10px;
+}
+
+.md_graph_most, .md_graph_pass, .fw_graph_most, .fw_graph_pass{
+
+}
+
+.md_graph_goals_cards{
+    position: fixed;
+    top: 120px;
+    right: 170px;
+}
+
+.combo_graph_all_pl{
+    font-size: 18px;
+    height: 30px;
+}
+
+.no_stats_right{
+    position: fixed;
+    top: 520px;
+    right: 100px;
+    color: blue;
+    font-size: 25px;
+}
+
+.total_shots, .total_shots_on_target_pl, .total_goals_pl, .total_assists_pl, .total_passes_pl, .total_dribble_complete_pl{
+    position: fixed;
+    top: 435px;
+    right: 20px;
+    width: 910px;
+    height: 520px;
+}
+
+.total_cross_complete_pl, .total_interc_won_pl, .total_blocks_pl, .total_fouls_won_pl{
+    position: fixed;
+    top: 435px;
+    right: 20px;
+    width: 910px;
+    height: 520px;
+}

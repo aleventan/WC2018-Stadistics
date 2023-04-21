@@ -1,0 +1,142 @@
+[
+    {
+        "player_name": "Neymar da Silva Santos Junior",
+        "player_nickname": "Neymar",
+        "match_played": 5,
+        "total_fouls_won_pl": 5.4,
+        "team_name": "Brazil"
+    },
+    {
+        "player_name": "Eden Hazard",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_fouls_won_pl": 5.33,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Oghenekaro Etebo",
+        "player_nickname": "Peter Etebo",
+        "match_played": 3,
+        "total_fouls_won_pl": 5.0,
+        "team_name": "Nigeria"
+    },
+    {
+        "player_name": "Francisco Román Alarcón Suárez",
+        "player_nickname": "Isco",
+        "match_played": 4,
+        "total_fouls_won_pl": 5.0,
+        "team_name": "Spain"
+    },
+    {
+        "player_name": "Lionel Andrés Messi Cuccittini",
+        "player_nickname": "Lionel Messi",
+        "match_played": 4,
+        "total_fouls_won_pl": 4.5,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Joshua Kimmich",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_fouls_won_pl": 4.0,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Hirving Rodrigo Lozano Bahena",
+        "player_nickname": "Hirving Lozano",
+        "match_played": 4,
+        "total_fouls_won_pl": 4.0,
+        "team_name": "Mexico"
+    },
+    {
+        "player_name": "José Luis Rodríguez Francis",
+        "player_nickname": "José Rodríguez",
+        "match_played": 3,
+        "total_fouls_won_pl": 4.0,
+        "team_name": "Panama"
+    },
+    {
+        "player_name": "Harry Kane",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_fouls_won_pl": 3.83,
+        "team_name": "England"
+    },
+    {
+        "player_name": "Juan Guillermo Cuadrado Bello",
+        "player_nickname": "Juan Cuadrado",
+        "match_played": 4,
+        "total_fouls_won_pl": 3.75,
+        "team_name": "Colombia"
+    },
+    {
+        "player_name": "Armando Enrique Cooper Whitaker",
+        "player_nickname": "Armando Cooper",
+        "match_played": 2,
+        "total_fouls_won_pl": 3.5,
+        "team_name": "Panama"
+    },
+    {
+        "player_name": "Jefferson Agustín Farfán Guadalupe",
+        "player_nickname": "Jefferson Farfán",
+        "match_played": 2,
+        "total_fouls_won_pl": 3.5,
+        "team_name": "Peru"
+    },
+    {
+        "player_name": "Cristiano Ronaldo dos Santos Aveiro",
+        "player_nickname": "Cristiano Ronaldo",
+        "match_played": 4,
+        "total_fouls_won_pl": 3.5,
+        "team_name": "Portugal"
+    },
+    {
+        "player_name": "Sergio Busquets i Burgos",
+        "player_nickname": "Sergio Busquets",
+        "match_played": 4,
+        "total_fouls_won_pl": 3.5,
+        "team_name": "Spain"
+    },
+    {
+        "player_name": "Salem Mohammed Al Dawsari",
+        "player_nickname": "Salem Al Dawsari",
+        "match_played": 3,
+        "total_fouls_won_pl": 3.33,
+        "team_name": "Saudi Arabia"
+    },
+    {
+        "player_name": "Marcos Javier Acuña",
+        "player_nickname": "Marcos Acuña",
+        "match_played": 1,
+        "total_fouls_won_pl": 3.0,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Emil Hallfreðsson",
+        "player_nickname": "Emil Hallfredsson",
+        "match_played": 2,
+        "total_fouls_won_pl": 3.0,
+        "team_name": "Iceland"
+    },
+    {
+        "player_name": "Aníbal Cesis Godoy",
+        "player_nickname": "Aníbal Godoy",
+        "match_played": 3,
+        "total_fouls_won_pl": 3.0,
+        "team_name": "Panama"
+    },
+    {
+        "player_name": "Rafał Kurzawa",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_fouls_won_pl": 3.0,
+        "team_name": "Poland"
+    },
+    {
+        "player_name": "Keita Baldé Diao",
+        "player_nickname": "Keita Baldé",
+        "match_played": 1,
+        "total_fouls_won_pl": 3.0,
+        "team_name": "Senegal"
+    }
+]

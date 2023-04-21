@@ -1,0 +1,142 @@
+[
+    {
+        "player_name": "Amine Harit",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_dribble_complete_pl": 13.0,
+        "team_name": "Morocco"
+    },
+    {
+        "player_name": "Francisco Román Alarcón Suárez",
+        "player_nickname": "Isco",
+        "match_played": 4,
+        "total_dribble_complete_pl": 10.25,
+        "team_name": "Spain"
+    },
+    {
+        "player_name": "Neymar da Silva Santos Junior",
+        "player_nickname": "Neymar",
+        "match_played": 5,
+        "total_dribble_complete_pl": 8.6,
+        "team_name": "Brazil"
+    },
+    {
+        "player_name": "Kylian Mbappé Lottin",
+        "player_nickname": "Kylian Mbappé",
+        "match_played": 7,
+        "total_dribble_complete_pl": 7.43,
+        "team_name": "France"
+    },
+    {
+        "player_name": "Lionel Andrés Messi Cuccittini",
+        "player_nickname": "Lionel Messi",
+        "match_played": 4,
+        "total_dribble_complete_pl": 7.0,
+        "team_name": "Argentina"
+    },
+    {
+        "player_name": "Eden Hazard",
+        "player_nickname": null,
+        "match_played": 6,
+        "total_dribble_complete_pl": 7.0,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Salem Mohammed Al Dawsari",
+        "player_nickname": "Salem Al Dawsari",
+        "match_played": 3,
+        "total_dribble_complete_pl": 6.33,
+        "team_name": "Saudi Arabia"
+    },
+    {
+        "player_name": "Adnan Januzaj",
+        "player_nickname": null,
+        "match_played": 1,
+        "total_dribble_complete_pl": 6.0,
+        "team_name": "Belgium"
+    },
+    {
+        "player_name": "Hirving Rodrigo Lozano Bahena",
+        "player_nickname": "Hirving Lozano",
+        "match_played": 4,
+        "total_dribble_complete_pl": 6.0,
+        "team_name": "Mexico"
+    },
+    {
+        "player_name": "André Martín Carrillo Díaz",
+        "player_nickname": "André Carrillo",
+        "match_played": 3,
+        "total_dribble_complete_pl": 6.0,
+        "team_name": "Peru"
+    },
+    {
+        "player_name": "Hakim Ziyech",
+        "player_nickname": null,
+        "match_played": 3,
+        "total_dribble_complete_pl": 5.67,
+        "team_name": "Morocco"
+    },
+    {
+        "player_name": "Heung-Min Son",
+        "player_nickname": "Son Heung-Min",
+        "match_played": 3,
+        "total_dribble_complete_pl": 5.67,
+        "team_name": "South Korea"
+    },
+    {
+        "player_name": "Joel Nathaniel Campbell Samuels",
+        "player_nickname": "Joel Campbell",
+        "match_played": 2,
+        "total_dribble_complete_pl": 5.5,
+        "team_name": "Costa Rica"
+    },
+    {
+        "player_name": "Mohamed Salah",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_dribble_complete_pl": 5.5,
+        "team_name": "Egypt"
+    },
+    {
+        "player_name": "Yussuf Yurary Poulsen",
+        "player_nickname": "Yussuf Poulsen",
+        "match_played": 3,
+        "total_dribble_complete_pl": 5.0,
+        "team_name": "Denmark"
+    },
+    {
+        "player_name": "Mesut Özil",
+        "player_nickname": null,
+        "match_played": 2,
+        "total_dribble_complete_pl": 5.0,
+        "team_name": "Germany"
+    },
+    {
+        "player_name": "Héctor Miguel Herrera López",
+        "player_nickname": "Héctor Herrera",
+        "match_played": 4,
+        "total_dribble_complete_pl": 5.0,
+        "team_name": "Mexico"
+    },
+    {
+        "player_name": "Juan Guillermo Cuadrado Bello",
+        "player_nickname": "Juan Cuadrado",
+        "match_played": 4,
+        "total_dribble_complete_pl": 4.75,
+        "team_name": "Colombia"
+    },
+    {
+        "player_name": "Johan Andrés Mojica Palacio",
+        "player_nickname": "Johan Mojica",
+        "match_played": 4,
+        "total_dribble_complete_pl": 4.5,
+        "team_name": "Colombia"
+    },
+    {
+        "player_name": "Oghenekaro Etebo",
+        "player_nickname": "Peter Etebo",
+        "match_played": 3,
+        "total_dribble_complete_pl": 4.33,
+        "team_name": "Nigeria"
+    }
+]
