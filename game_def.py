@@ -170,30 +170,7 @@ def teamColors(selected_team):
 
 
 if __name__ == "__main__":
-    teams = teamList()
-    list_unique_id = []
-    for team in teams:
-        ids = getIdMatch(team)
-        id_team = ids[0]
-        for id in id_team:
-            if id in list_unique_id:
-                pass
-            else:
-                id = str(id) + '.json'
-                list_unique_id.append(id)
-    # for iid in list_unique_id:
-    #     print(iid)
-
-    # Ruta de la carpeta que deseas limpiar
-    ruta_carpeta = "Statsbomb\data\three-sixty"
-
-    # Lista de archivos que no deseas borrar
-    # archivos_a_mantener = ["archivo1.txt", "archivo2.png", "archivo3.pdf"]
-
-    # Itera sobre todos los archivos en la carpeta y borra aquellos que no estén en la lista
-    for archivo in os.listdir(ruta_carpeta):
-        if archivo not in list_unique_id:
-            os.remove(os.path.join(ruta_carpeta, archivo))
+    
 
     # print(getIdMatch("Croatia"))
     #print(teamList())
