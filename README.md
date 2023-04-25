@@ -25,7 +25,7 @@
 5. In the 'team stats' section, you can view the overall statistics for each country, as well as a comparison of the 32 teams that participated in the 2018 World Cup in categories such as total goals, average shots on goal per match, goal difference, yellow cards, and clean sheets.
 6. In the 'player stats' section, you can select a player from a country to view their statistics, including the positions they played in, minutes played, goals scored, etc. Additionally, there are comparative graphs that show the player's statistics compared to the rest of the players in the same position. On the right side of the screen, you can see if the player is among the top 20 in various categories, such as total shots on goal per 90 minutes, total fouls received, total dribbles, etc.
 
-### License <a name="license"></a>
+### License <a name="licence"></a>
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 
